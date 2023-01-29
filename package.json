@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Everyone1138/LetsKeepTrackofOurEmployees.git"
+    "url": "git+https://github.com/phungxkhiem/EmployeeTracker.git"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/Everyone1138/LetsKeepTrackofOurEmployees/issues"
+    "url": "https://github.com/phungxkhiem/EmployeeTracker/issues"
   },
-  "homepage": "https://github.com/Everyone1138/LetsKeepTrackofOurEmployees#readme",
+  "homepage": "https://github.com/phungxkhiem/EmployeeTracker#readme",
   "author": "",
   "license": "ISC",
   "dependencies": {
