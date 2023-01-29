@@ -1,17 +1,27 @@
 {
-  "name": "employee-tracker",
+  "name": "letskeeptrackofouremployees",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Everyone1138/LetsKeepTrackofOurEmployees.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Everyone1138/LetsKeepTrackofOurEmployees/issues"
+  },
+  "homepage": "https://github.com/Everyone1138/LetsKeepTrackofOurEmployees#readme",
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "asciiart-logo": "^0.2.6",
+    "asciiart-logo": "^0.2.7",
     "console.table": "^0.10.0",
+    "express": "^4.18.2",
     "inquirer": "8.2.4",
-    "mysql2": "^2.1.0"
+    "mysql2": "^2.3.3"
   }
 }
