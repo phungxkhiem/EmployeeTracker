@@ -1,8 +1,4 @@
 # Employee Tracker
-GetYourTeamOrganized
-Welcome to the README file for my LetsKeepTrackofOurEmployees application. Below is all the information needed to fully understand this application.
-license!
-License: ISC
 
 # Description
 The application can be used through a terminal as long as the user has node.js installed. The LTS vesion is recommended. An IDE is also required. More information on this topic is elaborated in the 'installation' section. This application is intended to help the user write notes, save notes, and delete notes. It is easy to use and useful for the user. The user should read through this README to fully comprehend the use of this application and what they need to install for it to work.
